@@ -1,0 +1,16 @@
+C:\Users\Usuário\todolist\bin\Debug\net5.0\todolist.exe
+C:\Users\Usuário\todolist\bin\Debug\net5.0\todolist.deps.json
+C:\Users\Usuário\todolist\bin\Debug\net5.0\todolist.runtimeconfig.json
+C:\Users\Usuário\todolist\bin\Debug\net5.0\todolist.runtimeconfig.dev.json
+C:\Users\Usuário\todolist\bin\Debug\net5.0\todolist.dll
+C:\Users\Usuário\todolist\bin\Debug\net5.0\ref\todolist.dll
+C:\Users\Usuário\todolist\bin\Debug\net5.0\todolist.pdb
+C:\Users\Usuário\todolist\obj\Debug\net5.0\todolist.csproj.AssemblyReference.cache
+C:\Users\Usuário\todolist\obj\Debug\net5.0\todolist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\todolist\obj\Debug\net5.0\todolist.AssemblyInfoInputs.cache
+C:\Users\Usuário\todolist\obj\Debug\net5.0\todolist.AssemblyInfo.cs
+C:\Users\Usuário\todolist\obj\Debug\net5.0\todolist.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\todolist\obj\Debug\net5.0\todolist.dll
+C:\Users\Usuário\todolist\obj\Debug\net5.0\ref\todolist.dll
+C:\Users\Usuário\todolist\obj\Debug\net5.0\todolist.pdb
+C:\Users\Usuário\todolist\obj\Debug\net5.0\todolist.genruntimeconfig.cache
